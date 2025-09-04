@@ -1,0 +1,9 @@
+# Flight Search System Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# For future enhancements, you might want to add:
+# requests>=2.31.0  # For real airline API integration
+# pandas>=2.0.0     # For advanced data analysis
+# flask>=2.3.0      # For web interface
+# beautifulsoup4>=4.12.0  # For web scraping flight data
